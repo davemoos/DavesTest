@@ -1,0 +1,19 @@
+# mvn build output
+target/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Mac finder
+.DS_Store
+
+*.iml
