@@ -7,5 +7,6 @@ public class GeneralTest {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Say Hello localedit");
+		System.out.println("Local edit conflict with cloud edit");
 	}
 }
