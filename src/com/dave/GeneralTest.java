@@ -9,5 +9,6 @@ public class GeneralTest {
 		System.out.println("Say Hello localedit");
 		System.out.println("Local edit conflict with cloud edit");
 		// local
+		//cloud edit
 	}
 }
