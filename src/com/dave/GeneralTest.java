@@ -2,13 +2,12 @@ package com.dave;
 
 public class GeneralTest {
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		System.out.println("Say Hello localedit");
-		System.out.println("Local edit conflict with cloud edit");
-		// here locally
-		// locally
-	}
+    /**
+     * @param args
+     */
+    public static void main(String[] args) {
+        System.out.println("Say Hello localedit");
+        System.out.println("Local edit conflict with cloud edit");
+        System.out.println("LOCAL");
+    }
 }
