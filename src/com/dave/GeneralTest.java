@@ -6,8 +6,7 @@ public class GeneralTest {
      * @param args
      */
     public static void main(String[] args) {
-        //local edit  
-        //remote edit
+        //local edit FRIDAY 
     }
 
 
