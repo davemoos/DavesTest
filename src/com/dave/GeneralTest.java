@@ -9,6 +9,7 @@ public class GeneralTest {
         //local edit FRIDAY 
         //remote edit FRIDAY
         //test local MOnday
+        // remote edit Monday
     }
 
 
