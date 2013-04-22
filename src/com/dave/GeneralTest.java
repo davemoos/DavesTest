@@ -8,6 +8,7 @@ public class GeneralTest {
     public static void main(String[] args) {
         //local edit FRIDAY 
         //remote edit FRIDAY
+        //test local MOnday
     }
 
 
