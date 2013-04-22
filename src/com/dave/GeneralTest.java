@@ -6,7 +6,7 @@ public class GeneralTest {
      * @param args 
      */
     public static void main(String[] args) {
-        // just 1 local
+        // just2 local
     }
 
 
