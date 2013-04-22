@@ -7,6 +7,7 @@ public class GeneralTest {
      */
     public static void main(String[] args) {
         //remote edit FRIDAY
+        // remote edit Monday
         
     }
 
