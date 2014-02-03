@@ -10,7 +10,11 @@ public class GeneralTest {
         // test remote edit
         // line three
 //line four
+<<<<<<< HEAD
 // added in MASTER
+=======
+// ADDED IN test2 branch
+>>>>>>> test2
     }
 
 
