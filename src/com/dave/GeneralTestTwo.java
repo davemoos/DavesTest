@@ -7,7 +7,7 @@ public class GeneralTest {
      */
     public static void main(String[] args) {
         // edited
-       // remote web edit
+        // edited user web
 		// local edit
     }
 
