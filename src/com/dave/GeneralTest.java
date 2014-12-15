@@ -6,7 +6,7 @@ public class GeneralTest {
      * @param args 
      */
     public static void main(String[] args) {
-	   //local changes
+	    //remote master changes.
     }
 
 
