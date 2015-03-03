@@ -7,6 +7,7 @@ public class GeneralTest {
      */
     public static void main(String[] args) {
         // edited
+        // some new edits, merge back to develop branch
         // edited user web
 		// local edit
     }
