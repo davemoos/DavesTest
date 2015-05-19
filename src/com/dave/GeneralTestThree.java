@@ -6,9 +6,8 @@ public class GeneralTest {
      * @param args 
      */
     public static void main(String[] args) {
-        // edited
-        // edited user web
-		// local edit
+	System.out.println("Remote Change one");
+	System.out.println("Remote Change two");
     }
 
 
