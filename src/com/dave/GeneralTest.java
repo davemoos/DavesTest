@@ -7,7 +7,6 @@ public class GeneralTest {
      */
     public static void main(String[] args) {
 //remote changes.
-//local changes done on Wednesday
 }
 
 
