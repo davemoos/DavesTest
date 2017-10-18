@@ -9,7 +9,6 @@ public class GeneralTest {
 		System.out.println(" test branch1");
 }
 
-
 LOCAL2
 
 }
