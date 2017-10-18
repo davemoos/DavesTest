@@ -8,6 +8,7 @@ public class GeneralTest {
     public static void main(String[] args) {
 		System.out.println("Dave local change");
 	System.out.println("Remote Change one");
+	    conflict 1;
 
 	System.out.println("Remote Change two");
     }
